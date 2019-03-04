@@ -1,0 +1,16 @@
+<style>
+  h3 {
+  color:mediumblue;
+  font-family:Comic Sans MS;
+  }
+  form{
+  font-family:arial narrow;
+  color:black;
+  }
+  button{
+  color:maroon;
+  font-family:arial narrow;
+  background-color: aqua;
+  /* border: 1px solid aqua; */
+  }
+</style>
